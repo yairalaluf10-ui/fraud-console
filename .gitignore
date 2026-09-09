@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.venv/
+fraud_selection.csv
+.DS_Store
